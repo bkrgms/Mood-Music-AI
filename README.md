@@ -36,7 +36,7 @@
 
 | Home Screen | Colab Screen | Home Screen |
 |:---:|:---:|:---:|
-| <img src="Assets/main-page.png" width="200"> | <img src="Assets/colab-page.png" width="300"> | <img src="Assets/main-page.png" width="200"> |
+| <img src="Assets/main-page.png" width="200"> | <img src="Assets/colab-page.png" width="350"> | <img src="Assets/main-page-2.png" width="200"> |
 
 
 ## ⚙️ Installation & Usage
