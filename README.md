@@ -36,7 +36,7 @@
 
 | Home Screen | Chat Interface | Recommendation |
 |:---:|:---:|:---:|
-| <img src="URL_TO_IMAGE_1" width="200"> | <img src="URL_TO_IMAGE_2" width="200"> | <img src="URL_TO_IMAGE_3" width="200"> |
+| <img src="Assets/main-page.png" width="200"> | <img src="Assets/main-page-2.png" width="200"> | <img src="Assets/main-page.png" width="200"> |
 
 *(Note: Please update image placeholders with actual screenshots of your app)*
 
