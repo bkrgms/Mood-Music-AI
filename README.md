@@ -34,11 +34,10 @@
 
 ## 📱 Screenshots
 
-| Home Screen | Chat Interface | Recommendation |
+| Home Screen | Colab Screen | Home Screen |
 |:---:|:---:|:---:|
-| <img src="Assets/main-page.png" width="200"> | <img src="Assets/main-page-2.png" width="200"> | <img src="Assets/main-page.png" width="200"> |
+| <img src="Assets/main-page.png" width="200"> | <img src="Assets/colab-page.png" width="300"> | <img src="Assets/main-page.png" width="200"> |
 
-*(Note: Please update image placeholders with actual screenshots of your app)*
 
 ## ⚙️ Installation & Usage
 
@@ -51,13 +50,4 @@
     * Build and run on a simulator or physical device.
 3.  **Inspect the AI Model:**
     * Open the `.ipynb` file using Jupyter Notebook or Google Colab to see the underlying AI logic and training process.
-
-## 👤 Author
-
-**Bekir Gümüş**
-* LinkedIn: [bekir-gumus](https://www.linkedin.com/in/bekir-gumus/)
-* GitHub: [@bkrgms](https://github.com/bkrgms)
-
----
-*⭐️ If you like this project, please give it a star!*
 
